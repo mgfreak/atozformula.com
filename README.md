@@ -1,2 +1,0 @@
-# Atozformula.com
-Atozformula Repository
