@@ -1,1 +1,0 @@
-<div class="thrv_wrapper thrv_heading"><h1>My first H1 Heading</h1></div>
